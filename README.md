@@ -1,2 +1,2 @@
 # Palm-Tree
-This is a personal space,not having some wonderful uses.
+这就是一个普通的项目，并没有其他特殊的用途。
